@@ -8,5 +8,4 @@ def song_decoder(song):
     return result
 
 
-
 print(song_decoder('AWUBWUBWUBBWUBWUBWUBC'))
